@@ -12,7 +12,8 @@ export default {
         cardColor: "#1d1c21",
         primaryColor: "#008f00",
         primaryText: "#ffffff",
-        secondaryText: "#dddddd"
+        secondaryText: "#dddddd",
+        linkText: "#5e5e60"
       },
       fontFamily: {
         title: ["Montserrat", "sans-serif"],
